@@ -101,4 +101,3 @@ const categories = ref({
         </TabGroup>
     </div>
 </template>
-  
